@@ -1,0 +1,16 @@
+.card{
+    margin-bottom: 3em;
+}
+
+h2{
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.hideContent{
+    display: none;
+}
+
+.searchContainer{
+    margin-top: 4rem;
+}
